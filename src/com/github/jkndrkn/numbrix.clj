@@ -1,4 +1,4 @@
-(ns primer.numbrix
+(ns com.github.jkndrkn.numbrix
   (:refer-clojure :exclude [==])
   (:use clojure.core.logic)
   (:require
